@@ -1,4 +1,4 @@
-# Stock Price Prediction using ARIMA and Gradient Boosting For Investo
+# Stock Price Prediction using ARIMA and Gradient Boosting For Invsto
 
 ## Project Overview
 
